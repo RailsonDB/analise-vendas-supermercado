@@ -1,2 +1,5 @@
 # analise-vendas-supermercado
-Análise de dados de vendas com Python (iniciante
+
+Este projeto realiza uma **Análise Exploratória de Dados (EDA)** sobre as vendas
+
+
